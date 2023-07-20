@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.each-list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 30vw;
+  margin-bottom: -20px;
+}
+
+.pera {
+  font-family: 'Roboto';
+  font-size: 10px;
+  color: black;
+}
+
+.arrow-icon {
+  width: 25px;
+  height: 25px;
+  align-self: center;
+}
